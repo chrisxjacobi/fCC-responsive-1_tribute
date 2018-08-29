@@ -11,6 +11,7 @@
 
 #title {
     text-align: center;
+    padding-bottom: 10px;
 }
 
 #title h1 {
@@ -27,7 +28,8 @@ img {
     display: block;
     height: auto;
     margin: auto;
-    padding-bottom: 20px;;
+    padding-bottom: 20px;
+    ;
 }
 
 #img-caption {
@@ -41,4 +43,22 @@ img {
     line-height: 25px;
     margin: 0 auto;
     max-width: 500px;
+}
+
+li {
+    padding: 5px;
+}
+
+#main p {
+    font-size: 20px;
+    margin: 0 auto;
+    max-width: 650px;
+    line-height: 25px;
+    text-align: center;
+}
+
+#main h1 {
+    font-size: 28px;
+    padding: 10px;
+    text-align: center;
 }
