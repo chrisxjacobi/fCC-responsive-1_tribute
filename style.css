@@ -6,6 +6,7 @@
     background-color: #efecec;
     margin: 20px;
     padding: 10px;
+    display: block;
 }
 
 #title {
@@ -33,4 +34,11 @@ img {
     display: block;
     text-align: center;
     padding-bottom: 20px;
+}
+
+#tribute-info {
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0 auto;
+    max-width: 500px;
 }
