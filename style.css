@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica;
+}
+
+#main {
+    background-color: #efecec;
+    margin: 20px;
+    padding: 10px;
+}
+
+#title {
+    text-align: center;
+}
+
+#title h1 {
+    font-size: 40px;
+}
+
+#img-div {
+    background-color: white;
+    display: block;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    padding-bottom: 20px;;
+}
+
+#img-caption {
+    display: block;
+    text-align: center;
+    padding-bottom: 20px;
+}
